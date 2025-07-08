@@ -1,4 +1,4 @@
-[![Made by SaftaNasdalihin](https://img.shields.io/badge/Made%20by-Safta-blue)](https://github.com/nasdthestudent)
+[![Made by Safta Nasdalihin](https://img.shields.io/badge/Made%20by-Safta_Nasdalihin-blue)](https://github.com/nasdthestudent)
 
 # 🧮 Simple Smart Contract – Solidity Practice
 
@@ -42,14 +42,14 @@ A basic smart contract written in Solidity. This contract allows storing a singl
 4. Deploy using "Injected Web3" (make sure MetaMask is connected to Sepolia)
 5. Use the interface in Remix to interact with the contract
 
-
+```
 ## 📁 Project Structure
 simple-smart-contract/
 ├── contracts/
 │   └── KontrakSederhana.sol        # The main smart contract
 ├── README.md                       # This project documentation
 └── LICENSE                         # MIT license for open-source use
-
+```
 
 ## 🙋 About
 

@@ -53,7 +53,7 @@ simple-smart-contract/
 
 ## 🙋 About
 
-This project was created as part of my journey learning Web3 and smart contract development using Solidity.  
+This project was created as part of my journey learning blockchain and smart contract development using Solidity.  
 Feel free to fork, try it out, or give feedback!
 
 ![License](https://img.shields.io/badge/license-MIT-green)

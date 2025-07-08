@@ -1,6 +1,6 @@
 [![Made by Safta Nasdalihin](https://img.shields.io/badge/Made%20by-Safta_Nasdalihin-blue)](https://github.com/nasdthestudent)
 
-# 🧮 Simple Smart Contract – Solidity Practice
+# 🧮 Simple Smart Contract – Solidity Practice #1
 
 A basic smart contract written in Solidity. This contract allows storing a single number (`uint256`) that can only be updated by the contract owner.
 

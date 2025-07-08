@@ -4,7 +4,6 @@
 
 A basic smart contract written in Solidity. This contract allows storing a single number (`uint256`) that can only be updated by the contract owner.
 
----
 
 ## 📦 Features
 
@@ -13,7 +12,6 @@ A basic smart contract written in Solidity. This contract allows storing a singl
 - Uses `modifier` to restrict access
 - Written for learning and portfolio purposes
 
----
 
 ## 🛠️ Technologies Used
 
@@ -22,7 +20,6 @@ A basic smart contract written in Solidity. This contract allows storing a singl
 - Sepolia Testnet (for testing on Ethereum)
 - MetaMask (for wallet interaction)
 
----
 
 ## 🚀 How It Works
 
@@ -30,7 +27,6 @@ A basic smart contract written in Solidity. This contract allows storing a singl
 2. The owner can call a function to update the stored number.
 3. Any other users trying to update the number will be rejected by the contract (`require` statement).
 
----
 
 ## 🔗 Deployed Contract
 
@@ -38,7 +34,6 @@ A basic smart contract written in Solidity. This contract allows storing a singl
 **Contract Address:** [0x0a5a5eceecc9e5edd56e91675847d871f4ba2ec5](https://sepolia.etherscan.io/address/0x0a5a5ececec9e5edd56e916758478d17f4ba2ec5)
 
 
----
 
 ## 🧪 How to Try It
 
@@ -48,6 +43,5 @@ A basic smart contract written in Solidity. This contract allows storing a singl
 4. Deploy using "Injected Web3" (make sure MetaMask is connected to Sepolia)
 5. Use the interface in Remix to interact with the contract
 
----
 
 ## 📁 Project Structure

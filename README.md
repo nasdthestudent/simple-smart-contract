@@ -1,4 +1,4 @@
-[![Made by Safta Nasdalihin](https://img.shields.io/badge/Made%20by-Safta-blue)](https://github.com/nasdthestudent)
+[![Made by SaftaNasdalihin](https://img.shields.io/badge/Made%20by-Safta-blue)](https://github.com/nasdthestudent)
 
 # 🧮 Simple Smart Contract – Solidity Practice
 

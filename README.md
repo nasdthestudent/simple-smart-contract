@@ -31,7 +31,7 @@ A basic smart contract written in Solidity. This contract allows storing a singl
 ## 🔗 Deployed Contract
 
 **Network:** Sepolia Testnet  
-**📜 Contract Address:** [`0xa0a5...2ec5`](https://sepolia.etherscan.io/address/0xa0a5a5ececec9e5edd56e916578478d7174ba2ec5)
+**📜 Contract Address:** [`0xa0a5...2ec5`](https://sepolia.etherscan.io/address/0x0A5A5ecEECC9E5edD56E91675847d871F4BA2ec5#code)
 
 
 ## 🧪 How to Try It

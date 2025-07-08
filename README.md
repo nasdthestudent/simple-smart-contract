@@ -1,4 +1,4 @@
-[![Made by Safta](https://img.shields.io/badge/Made%20by-Safta-blue)](https://github.com/nasdthestudent)
+[![Made by Safta Nasdalihin](https://img.shields.io/badge/Made%20by-Safta-blue)](https://github.com/nasdthestudent)
 
 # 🧮 Simple Smart Contract – Solidity Practice
 
@@ -31,8 +31,7 @@ A basic smart contract written in Solidity. This contract allows storing a singl
 ## 🔗 Deployed Contract
 
 **Network:** Sepolia Testnet  
-**Contract Address:** [0x0a5a5eceecc9e5edd56e91675847d871f4ba2ec5](https://sepolia.etherscan.io/address/0x0a5a5ececec9e5edd56e916758478d17f4ba2ec5)
-
+**📜 Contract Address:** [`0xa0a5...2ec5`](https://sepolia.etherscan.io/address/0xa0a5a5ececec9e5edd56e916578478d7174ba2ec5)
 
 
 ## 🧪 How to Try It
@@ -45,3 +44,17 @@ A basic smart contract written in Solidity. This contract allows storing a singl
 
 
 ## 📁 Project Structure
+simple-smart-contract/
+├── contracts/
+│   └── KontrakSederhana.sol        # The main smart contract
+├── README.md                       # This project documentation
+└── LICENSE                         # MIT license for open-source use
+
+
+## 🙋 About
+
+This project was created as part of my journey learning Web3 and smart contract development using Solidity.  
+Feel free to fork, try it out, or give feedback!
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Solidity](https://img.shields.io/badge/Solidity-0.8.4-blue)
